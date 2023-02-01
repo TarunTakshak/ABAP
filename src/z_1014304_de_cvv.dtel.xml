@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_1014304_DE_CVV</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>Z_1014304_DE_CVV</DOMNAME>
+    <HEADLEN>16</HEADLEN>
+    <SCRLEN1>03</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>16</SCRLEN3>
+    <DDTEXT>Cvv for the Card</DDTEXT>
+    <REPTEXT>Cvv for the Card</REPTEXT>
+    <SCRTEXT_S>Cvv</SCRTEXT_S>
+    <SCRTEXT_M>Cvv for the Card</SCRTEXT_M>
+    <SCRTEXT_L>Cvv for the Card</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,3 @@
+FUNCTION-POOL Z1014304_FG_STRING_OP.        "MESSAGE-ID ..
+
+* INCLUDE LZ1014304_FG_STRING_OPD...         " Local class definition

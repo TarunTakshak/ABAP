@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_1014304_DE_SALARY</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>Z_1014304_DM_SALARY</DOMNAME>
+    <HEADLEN>22</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>22</SCRLEN3>
+    <DDTEXT>Salary of the employee</DDTEXT>
+    <REPTEXT>Salary of the employee</REPTEXT>
+    <SCRTEXT_S>E salary</SCRTEXT_S>
+    <SCRTEXT_M>Emp salary</SCRTEXT_M>
+    <SCRTEXT_L>Salary of the employee</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
